@@ -1,0 +1,81 @@
+---
+title: "Research"
+subtitle: "Probabilistic modelling for genomic sequence analysis"
+---
+
+::: {.intro-panel .panel-ice .reveal}
+## Research focus
+
+My research interests lie at the intersection of **computational genomics, probabilistic modelling, sequence analysis, and machine learning**. I am especially interested in methods that preserve uncertainty in biological data instead of reducing complex evidence to a single deterministic answer.
+:::
+
+## Flagship project
+
+::: {.research-feature .reveal}
+<div class="eyebrow">CRISPR–CAS9 · PAIR HIDDEN MARKOV MODELS</div>
+
+### Probabilistic modelling of CRISPR–Cas9 off-target interactions
+
+CRISPR guide RNAs can interact with genomic sequences that differ from the intended target through **mismatches, insertions, or deletions**. Computational off-target analysis therefore depends not only on identifying similar sequences, but also on deciding how guide and target sequences should be aligned and interpreted.
+:::
+
+::: {.concept-panels .reveal}
+::: {.concept-panel .panel-blue}
+<div class="concept-number">01</div>
+### Question
+How can we represent uncertainty in guide–target alignment when prioritising possible CRISPR off-target sites?
+:::
+
+::: {.concept-panel .panel-teal}
+<div class="concept-number">02</div>
+### Approach
+Use a **pair Hidden Markov Model (PHMM)** with Match, Insertion, and Deletion states to represent guide–target relationships probabilistically.
+:::
+
+::: {.concept-panel .panel-sage}
+<div class="concept-number">03</div>
+### Key idea
+Instead of relying only on one alignment path, probabilistic inference can retain support distributed across multiple plausible alignments.
+:::
+
+::: {.concept-panel .panel-ice}
+<div class="concept-number">04</div>
+### Application
+Genome-wide candidate analysis and prioritisation for CRISPR–Cas9 off-target research.
+:::
+:::
+
+## What I work on
+
+::: {.mini-panel-grid .reveal}
+::: {.mini-panel}
+**Sequence modelling**  
+Guide–target relationships · mismatches · indels
+:::
+::: {.mini-panel}
+**Uncertainty**  
+Alternative alignment paths · probabilistic interpretation
+:::
+::: {.mini-panel}
+**Genome-wide analysis**  
+Candidate generation · ranking · validation
+:::
+::: {.mini-panel}
+**Research pipelines**  
+Python · Linux · reproducibility · benchmarking
+:::
+:::
+
+::: {.privacy-panel .reveal}
+<div class="eyebrow">MANUSCRIPT IN PREPARATION</div>
+
+### What is public here
+
+This website intentionally presents only the **research question, conceptual approach, and high-level methodology**. Detailed methods, parameter values, unpublished quantitative results, figures, and supplementary analyses remain private while the manuscript is in preparation.
+:::
+
+## Broader interests
+
+::: {.interest-cloud .reveal}
+<span>Statistical genomics</span><span>Probabilistic modelling</span><span>Sequence bioinformatics</span><span>Bayesian methods</span><span>Network biology</span><span>RNA analysis</span><span>Precision medicine</span><span>Interpretable ML</span>
+:::

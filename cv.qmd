@@ -1,0 +1,85 @@
+---
+title: "Curriculum Vitae"
+---
+
+::: {.cv-summary .panel-ice .reveal}
+Data Science and Artificial Intelligence graduate with research experience in **computational genomics, machine learning, and probabilistic modelling**. Currently pursuing the M2 GENIOMHE-AI at Université Paris-Saclay.
+:::
+
+## Education
+
+::: {.timeline-grid .reveal}
+::: {.timeline-card}
+<div class="timeline-year">2026–present</div>
+**Université Paris-Saclay**  
+M2 GENIOMHE-AI
+:::
+::: {.timeline-card}
+<div class="timeline-year">2024–2026</div>
+**DSTI School of Engineering**  
+MSc Data Science and Artificial Intelligence
+:::
+::: {.timeline-card}
+<div class="timeline-year">2025</div>
+**Institut Polytechnique de Paris & HEC Paris**  
+Hi! PARIS Summer School
+:::
+::: {.timeline-card}
+<div class="timeline-year">2022–2024</div>
+**University of Bologna**  
+Bachelor's Degree in Political and Social Sciences
+:::
+:::
+
+## Research & professional experience
+
+::: {.experience-stack .reveal}
+::: {.experience-card .panel-teal}
+<div class="eyebrow">JULY–SEPTEMBER 2026</div>
+### Généthon / Inserm
+**Software Engineering Assistant**
+
+Continued development and validation of computational methods for CRISPR–Cas9 off-target prediction, including genome-wide analysis, benchmarking, and reproducible Python pipelines.
+:::
+
+::: {.experience-card .panel-blue}
+<div class="eyebrow">JANUARY–JUNE 2026</div>
+### Généthon
+**Research Intern — Computational Genomics**
+
+Developed and evaluated probabilistic methods for CRISPR–Cas9 off-target prediction using large-scale genomic and experimental datasets.
+:::
+
+::: {.experience-card .panel-sage}
+<div class="eyebrow">OCTOBER–DECEMBER 2025</div>
+### HEC Paris — ION Management Science Lab
+**Research Assistant**
+
+Developed multimodal pipelines transforming video and audio recordings into structured datasets for quantitative research.
+:::
+:::
+
+## Technical profile
+
+::: {.skill-grid .reveal}
+::: {.skill-panel}
+### Programming
+Python · R · SQL · Bash/Linux · PowerShell · C/C++
+:::
+::: {.skill-panel}
+### Machine learning
+scikit-learn · PyTorch · TensorFlow · deep learning · probabilistic modelling
+:::
+::: {.skill-panel}
+### Bioinformatics
+CRISPR · sequence alignment · HMM/PHMM · genome-wide analysis · GUIDE-seq · CHANGE-seq
+:::
+::: {.skill-panel}
+### Data & software
+Spark · Hadoop · AWS · Git · Docker · Neo4j · MongoDB
+:::
+:::
+
+## Languages
+
+Italian — Native · English — C1 · French — B2 · German — Basic

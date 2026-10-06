@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - interactions.js
+
+website:
+  title: "Gaia Bianciotto"
+  description: "Computational genomics, probabilistic modelling, and machine learning for biology."
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: about.qmd
+        text: About
+    right:
+      - text: "GitHub ↗"
+        href: https://github.com/gaiabianciotto
+      - text: "LinkedIn ↗"
+        href: https://www.linkedin.com/in/gaia-bianciotto-269056312/
+      - text: "Email"
+        href: mailto:gaia.bianciotto@etud.univ-evry.fr
+  page-footer:
+    left: "© 2026 Gaia Bianciotto"
+    right: "Computational Genomics · Paris"
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-after-body: _includes.html
+
+execute:
+  freeze: auto

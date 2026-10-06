@@ -1,0 +1,27 @@
+---
+title: "Publications & Presentations"
+---
+
+::: {.pub-grid}
+::: {.pub-panel .panel-teal .reveal}
+<div class="eyebrow">MANUSCRIPT IN PREPARATION</div>
+
+### CRISPR–Cas9 off-target prediction using probabilistic sequence modelling
+
+**Gaia Bianciotto**, Guillaume Corre, Mario Amendola, Margaux Mombled  
+*Manuscript in preparation.*
+
+A probabilistic framework for CRISPR–Cas9 guide–target sequence analysis using pair Hidden Markov Models and uncertainty-aware alignment inference.
+
+<div class="privacy-note">Detailed methods and supplementary analyses are kept private while the manuscript is in preparation.</div>
+:::
+
+::: {.pub-panel .panel-blue .reveal}
+<div class="eyebrow">POSTER · MAY 2026</div>
+
+### Probabilistic modelling approaches for improving CRISPR off-target prediction by incorporating alignment uncertainty
+
+**Symposium on Generative AI for Biochemistry and Health**  
+Télécom Paris
+:::
+:::

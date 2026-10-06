@@ -1,0 +1,111 @@
+---
+title: "Gaia Bianciotto"
+page-layout: full
+---
+
+::: {.hero .reveal}
+::: {.grid .align-items-center .hero-grid}
+::: {.g-col-12 .g-col-lg-8}
+::: {.hero-kicker}
+COMPUTATIONAL GENOMICS · PROBABILISTIC MODELLING · MACHINE LEARNING FOR BIOLOGY
+:::
+
+# Computational methods for genomic sequence analysis.
+
+I am a **data scientist and computational genomics researcher** currently pursuing the **M2 GENIOMHE-AI at Université Paris-Saclay**. My work focuses on probabilistic modelling, genomic data analysis, and machine learning for biomedical research, with current research on **CRISPR–Cas9 off-target prediction**.
+
+::: {.hero-actions}
+[Explore research](research.qmd){.btn .btn-primary} [Projects](projects.qmd){.btn .btn-soft} [CV](cv.qmd){.btn .btn-soft}
+:::
+
+::: {.social-row}
+[LinkedIn ↗](https://www.linkedin.com/in/gaia-bianciotto-269056312/){.social-pill target="_blank"}
+[GitHub ↗](https://github.com/gaiabianciotto){.social-pill target="_blank"}
+[Email](mailto:gaia.bianciotto@etud.univ-evry.fr){.social-pill}
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-4 .hero-photo-wrap}
+![](assets/profile.png){.hero-photo fig-alt="Portrait of Gaia Bianciotto"}
+:::
+:::
+:::
+
+::: {.section-head .reveal}
+## Selected research
+[View all research →](research.qmd){.section-link}
+:::
+
+::: {.bento-grid .reveal}
+::: {.bento-panel .panel-teal .panel-large}
+<div class="eyebrow">FLAGSHIP PROJECT · GÉNÉTHON</div>
+
+### Probabilistic CRISPR–Cas9 off-target modelling
+
+I investigate **pair Hidden Markov Models (PHMMs)** for guide–target sequence analysis, with a focus on alternative alignment paths and uncertainty-aware prioritisation of potential off-target sites.
+
+<div class="tag-row"><span>CRISPR</span><span>PHMM</span><span>Genomics</span><span>Sequence alignment</span></div>
+
+[Explore the research →](research.qmd){.panel-cta}
+:::
+
+::: {.bento-panel .panel-blue}
+<div class="eyebrow">CURRENT FOCUS</div>
+
+### Alignment uncertainty
+
+Studying how probabilistic sequence models can preserve uncertainty instead of collapsing evidence into one deterministic alignment.
+:::
+
+::: {.bento-panel .panel-sage}
+<div class="eyebrow">COMPUTATIONAL WORK</div>
+
+### Genome-scale analysis
+
+Python and Linux workflows for candidate generation, sequence analysis, benchmarking, and reproducible experiments.
+:::
+
+::: {.bento-panel .panel-ice}
+<div class="eyebrow">RESEARCH INTERESTS</div>
+
+### Where I want to go next
+
+Computational genomics · precision medicine · probabilistic biology · machine learning for biomedical research
+:::
+:::
+
+::: {.mini-panel-grid .reveal}
+::: {.mini-panel}
+<div class="mini-number">01</div>
+**Probabilistic modelling**
+
+PHMMs · uncertainty · Bayesian thinking
+:::
+::: {.mini-panel}
+<div class="mini-number">02</div>
+**Genomic computation**
+
+Sequence analysis · genome-wide workflows
+:::
+::: {.mini-panel}
+<div class="mini-number">03</div>
+**Machine learning**
+
+PyTorch · TensorFlow · statistical learning
+:::
+::: {.mini-panel}
+<div class="mini-number">04</div>
+**Research engineering**
+
+Python · Linux · Git · Docker
+:::
+:::
+
+::: {.cta-strip .reveal}
+<div>
+<div class="eyebrow">NEXT STEP</div>
+**Open to PhD and research opportunities** in computational genomics, bioinformatics, and machine learning for biology.
+</div>
+
+[Get in touch](mailto:gaia.bianciotto@etud.univ-evry.fr){.btn .btn-primary}
+:::

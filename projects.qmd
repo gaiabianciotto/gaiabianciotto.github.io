@@ -1,0 +1,52 @@
+---
+title: "Projects"
+subtitle: "Selected research and computational work"
+---
+
+::: {.project-showcase .panel-teal .reveal}
+<div class="project-index">01</div>
+<div class="eyebrow">GÉNÉTHON · 2026</div>
+
+## CRISPR off-target prediction with probabilistic sequence models
+
+Development and validation of computational methods for CRISPR–Cas9 off-target analysis, with emphasis on probabilistic sequence alignment, genome-wide candidate analysis, and uncertainty modelling.
+
+::: {.project-columns}
+::: {.project-subpanel}
+### My contribution
+- PHMM-based guide–target modelling
+- reproducible Python pipelines
+- genome-scale analyses and benchmarking
+- experimental off-target datasets
+- uncertainty-aware alignment features
+:::
+
+::: {.project-subpanel}
+### Tools & methods
+<div class="tag-row"><span>Python</span><span>Bash/Linux</span><span>PHMM/HMM</span><span>Genomics</span><span>Git</span><span>Docker</span></div>
+:::
+:::
+
+[Research overview →](research.qmd){.panel-cta}
+:::
+
+::: {.project-showcase .panel-blue .reveal}
+<div class="project-index">02</div>
+<div class="eyebrow">HEC PARIS · 2025</div>
+
+## Multimodal research data pipelines
+
+Built multimodal data-processing pipelines that transformed video and audio recordings into structured datasets for quantitative research on mentorship dynamics and AI-driven experimentation.
+
+::: {.project-columns}
+::: {.project-subpanel}
+### Focus
+Research engineering, multimodal data processing, quantitative analysis, and reproducible data workflows.
+:::
+
+::: {.project-subpanel}
+### Tools & methods
+<div class="tag-row"><span>Python</span><span>Data pipelines</span><span>Multimodal data</span><span>Quantitative research</span></div>
+:::
+:::
+:::

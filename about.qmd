@@ -1,0 +1,44 @@
+---
+title: "About"
+---
+
+::: {.about-layout}
+::: {.grid .align-items-start}
+::: {.g-col-12 .g-col-lg-8}
+::: {.intro-panel .panel-ice .reveal}
+## About me
+
+I am a data scientist and **computational genomics researcher** currently pursuing the **M2 GENIOMHE-AI at Université Paris-Saclay**.
+
+My background combines data science, artificial intelligence, and quantitative research with a specialization in computational biology. I am particularly interested in **interpretable computational approaches for biological problems**, especially where probabilistic modelling can represent uncertainty rather than hide it.
+:::
+
+::: {.story-grid .reveal}
+::: {.story-panel .panel-teal}
+### Current research
+CRISPR–Cas9 off-target prediction, probabilistic guide–target modelling, and genome-wide candidate analysis.
+:::
+::: {.story-panel .panel-sage}
+### Background
+Political and social sciences → data science and AI → computational genomics.
+:::
+::: {.story-panel .panel-blue}
+### Next step
+PhD and research opportunities in computational genomics, bioinformatics, probabilistic modelling, and ML for biology.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-4}
+::: {.contact-card .reveal}
+### Contact
+
+[Email me →](mailto:gaia.bianciotto@etud.univ-evry.fr){.contact-link}
+[LinkedIn ↗](https://www.linkedin.com/in/gaia-bianciotto-269056312/){.contact-link target="_blank"}
+[GitHub ↗](https://github.com/gaiabianciotto){.contact-link target="_blank"}
+
+<div class="contact-email">gaia.bianciotto@etud.univ-evry.fr</div>
+:::
+:::
+:::
+:::
