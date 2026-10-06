@@ -164,3 +164,11 @@ footer.footer { border-top:1px solid var(--line); }
   .project-columns { grid-template-columns:1fr; }
   .navbar-nav .nav-link { border-radius:8px; }
 }
+
+
+.cv-download-row {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 1rem 0 1.8rem;
+}
