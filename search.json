@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests lie at the intersection of computational genomics, probabilistic modelling, sequence analysis, and machine learning. I am especially interested in methods that preserve uncertainty in biological data instead of reducing complex evidence to a single deterministic answer."
+  },
+  {
+    "objectID": "research.html#research-focus",
+    "href": "research.html#research-focus",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests lie at the intersection of computational genomics, probabilistic modelling, sequence analysis, and machine learning. I am especially interested in methods that preserve uncertainty in biological data instead of reducing complex evidence to a single deterministic answer."
+  },
+  {
+    "objectID": "research.html#flagship-project",
+    "href": "research.html#flagship-project",
+    "title": "Research",
+    "section": "Flagship project",
+    "text": "Flagship project\n\n\nCRISPR–CAS9 · PAIR HIDDEN MARKOV MODELS\n\n\nProbabilistic modelling of CRISPR–Cas9 off-target interactions\nCRISPR guide RNAs can interact with genomic sequences that differ from the intended target through mismatches, insertions, or deletions. Computational off-target analysis therefore depends not only on identifying similar sequences, but also on deciding how guide and target sequences should be aligned and interpreted.\n\n\n\n\n\n01\n\n\nQuestion\nHow can we represent uncertainty in guide–target alignment when prioritising possible CRISPR off-target sites?\n\n\n\n\n02\n\n\nApproach\nUse a pair Hidden Markov Model (PHMM) with Match, Insertion, and Deletion states to represent guide–target relationships probabilistically.\n\n\n\n\n03\n\n\nKey idea\nInstead of relying only on one alignment path, probabilistic inference can retain support distributed across multiple plausible alignments.\n\n\n\n\n04\n\n\nApplication\nGenome-wide candidate analysis and prioritisation for CRISPR–Cas9 off-target research."
+  },
+  {
+    "objectID": "research.html#what-i-work-on",
+    "href": "research.html#what-i-work-on",
+    "title": "Research",
+    "section": "What I work on",
+    "text": "What I work on\n\n\nSequence modelling\nGuide–target relationships · mismatches · indels\n\n\nUncertainty\nAlternative alignment paths · probabilistic interpretation\n\n\nGenome-wide analysis\nCandidate generation · ranking · validation\n\n\nResearch pipelines\nPython · Linux · reproducibility · benchmarking\n\n\n\n\nMANUSCRIPT IN PREPARATION\n\n\nWhat is public here\nThis website intentionally presents only the research question, conceptual approach, and high-level methodology. Detailed methods, parameter values, unpublished quantitative results, figures, and supplementary analyses remain private while the manuscript is in preparation."
+  },
+  {
+    "objectID": "research.html#broader-interests",
+    "href": "research.html#broader-interests",
+    "title": "Research",
+    "section": "Broader interests",
+    "text": "Broader interests\n\nStatistical genomicsProbabilistic modellingSequence bioinformaticsBayesian methodsNetwork biologyRNA analysisPrecision medicineInterpretable ML"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "01\n\n\nGÉNÉTHON · 2026\n\n\n\nDevelopment and validation of computational methods for CRISPR–Cas9 off-target analysis, with emphasis on probabilistic sequence alignment, genome-wide candidate analysis, and uncertainty modelling.\n\n\n\n\nPHMM-based guide–target modelling\nreproducible Python pipelines\ngenome-scale analyses and benchmarking\nexperimental off-target datasets\nuncertainty-aware alignment features\n\n\n\n\n\nPythonBash/LinuxPHMM/HMMGenomicsGitDocker\n\n\n\nResearch overview →"
+  },
+  {
+    "objectID": "projects.html#crispr-off-target-prediction-with-probabilistic-sequence-models",
+    "href": "projects.html#crispr-off-target-prediction-with-probabilistic-sequence-models",
+    "title": "Projects",
+    "section": "",
+    "text": "Development and validation of computational methods for CRISPR–Cas9 off-target analysis, with emphasis on probabilistic sequence alignment, genome-wide candidate analysis, and uncertainty modelling.\n\n\n\n\nPHMM-based guide–target modelling\nreproducible Python pipelines\ngenome-scale analyses and benchmarking\nexperimental off-target datasets\nuncertainty-aware alignment features\n\n\n\n\n\nPythonBash/LinuxPHMM/HMMGenomicsGitDocker\n\n\n\nResearch overview →"
+  },
+  {
+    "objectID": "projects.html#multimodal-research-data-pipelines",
+    "href": "projects.html#multimodal-research-data-pipelines",
+    "title": "Projects",
+    "section": "Multimodal research data pipelines",
+    "text": "Multimodal research data pipelines\nBuilt multimodal data-processing pipelines that transformed video and audio recordings into structured datasets for quantitative research on mentorship dynamics and AI-driven experimentation.\n\n\nFocus\nResearch engineering, multimodal data processing, quantitative analysis, and reproducible data workflows.\n\n\nTools & methods\n\nPythonData pipelinesMultimodal dataQuantitative research"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Data Science and Artificial Intelligence graduate with research experience in computational genomics, machine learning, and probabilistic modelling. Currently pursuing the M2 GENIOMHE-AI at Université Paris-Saclay."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n\n\n2026–present\n\nUniversité Paris-Saclay\nM2 GENIOMHE-AI\n\n\n\n2024–2026\n\nDSTI School of Engineering\nMSc Data Science and Artificial Intelligence\n\n\n\n2025\n\nInstitut Polytechnique de Paris & HEC Paris\nHi! PARIS Summer School\n\n\n\n2022–2024\n\nUniversity of Bologna\nBachelor’s Degree in Political and Social Sciences"
+  },
+  {
+    "objectID": "cv.html#research-professional-experience",
+    "href": "cv.html#research-professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research & professional experience",
+    "text": "Research & professional experience\n\n\n\nJULY–SEPTEMBER 2026\n\n\nGénéthon / Inserm\nSoftware Engineering Assistant\nContinued development and validation of computational methods for CRISPR–Cas9 off-target prediction, including genome-wide analysis, benchmarking, and reproducible Python pipelines.\n\n\n\n\nJANUARY–JUNE 2026\n\n\nGénéthon\nResearch Intern — Computational Genomics\nDeveloped and evaluated probabilistic methods for CRISPR–Cas9 off-target prediction using large-scale genomic and experimental datasets.\n\n\n\n\nOCTOBER–DECEMBER 2025\n\n\nHEC Paris — ION Management Science Lab\nResearch Assistant\nDeveloped multimodal pipelines transforming video and audio recordings into structured datasets for quantitative research."
+  },
+  {
+    "objectID": "cv.html#technical-profile",
+    "href": "cv.html#technical-profile",
+    "title": "Curriculum Vitae",
+    "section": "Technical profile",
+    "text": "Technical profile\n\n\nProgramming\nPython · R · SQL · Bash/Linux · PowerShell · C/C++\n\n\nMachine learning\nscikit-learn · PyTorch · TensorFlow · deep learning · probabilistic modelling\n\n\nBioinformatics\nCRISPR · sequence alignment · HMM/PHMM · genome-wide analysis · GUIDE-seq · CHANGE-seq\n\n\nData & software\nSpark · Hadoop · AWS · Git · Docker · Neo4j · MongoDB"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\nItalian — Native · English — C1 · French — B2 · German — Basic"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a data scientist and computational genomics researcher currently pursuing the M2 GENIOMHE-AI at Université Paris-Saclay.\nMy background combines data science, artificial intelligence, and quantitative research with a specialization in computational biology. I am particularly interested in interpretable computational approaches for biological problems, especially where probabilistic modelling can represent uncertainty rather than hide it.\n\n\n\n\nCRISPR–Cas9 off-target prediction, probabilistic guide–target modelling, and genome-wide candidate analysis.\n\n\n\nPolitical and social sciences → data science and AI → computational genomics.\n\n\n\nPhD and research opportunities in computational genomics, bioinformatics, probabilistic modelling, and ML for biology.\n\n\n\n\n\n\nEmail me → LinkedIn ↗ GitHub ↗\n\ngaia.bianciotto@etud.univ-evry.fr"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I am a data scientist and computational genomics researcher currently pursuing the M2 GENIOMHE-AI at Université Paris-Saclay.\nMy background combines data science, artificial intelligence, and quantitative research with a specialization in computational biology. I am particularly interested in interpretable computational approaches for biological problems, especially where probabilistic modelling can represent uncertainty rather than hide it."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gaia Bianciotto",
+    "section": "",
+    "text": "COMPUTATIONAL GENOMICS · PROBABILISTIC MODELLING · MACHINE LEARNING FOR BIOLOGY\n\n\n\nI am a data scientist and computational genomics researcher currently pursuing the M2 GENIOMHE-AI at Université Paris-Saclay. My work focuses on probabilistic modelling, genomic data analysis, and machine learning for biomedical research, with current research on CRISPR–Cas9 off-target prediction.\n\nExplore research Projects CV\n\n\nLinkedIn ↗ GitHub ↗ Email"
+  },
+  {
+    "objectID": "index.html#selected-research",
+    "href": "index.html#selected-research",
+    "title": "Gaia Bianciotto",
+    "section": "Selected research",
+    "text": "Selected research\nView all research →"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "MANUSCRIPT IN PREPARATION\n\n\nCRISPR–Cas9 off-target prediction using probabilistic sequence modelling\nGaia Bianciotto, Guillaume Corre, Mario Amendola, Margaux Mombled\nManuscript in preparation.\nA probabilistic framework for CRISPR–Cas9 guide–target sequence analysis using pair Hidden Markov Models and uncertainty-aware alignment inference.\n\nDetailed methods and supplementary analyses are kept private while the manuscript is in preparation.\n\n\n\n\n\nPOSTER · MAY 2026\n\n\nProbabilistic modelling approaches for improving CRISPR off-target prediction by incorporating alignment uncertainty\nSymposium on Generative AI for Biochemistry and Health\nTélécom Paris"
+  }
+]
