@@ -6,6 +6,11 @@ title: "Curriculum Vitae"
 Data Science and Artificial Intelligence graduate with research experience in **computational genomics, machine learning, and probabilistic modelling**. Currently pursuing the M2 GENIOMHE-AI at Université Paris-Saclay.
 :::
 
+::: {.cv-download-row .reveal}
+[Download CV (PDF) ↓](assets/Gaia_Bianciotto_CV.pdf){.btn .btn-primary download="Gaia_Bianciotto_CV.pdf"}
+[Website ↗](https://gaiabianciotto.github.io){.btn .btn-soft target="_blank"}
+:::
+
 ## Education
 
 ::: {.timeline-grid .reveal}

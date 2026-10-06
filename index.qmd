@@ -15,7 +15,7 @@ COMPUTATIONAL GENOMICS · PROBABILISTIC MODELLING · MACHINE LEARNING FOR BIOLOG
 I am a **data scientist and computational genomics researcher** currently pursuing the **M2 GENIOMHE-AI at Université Paris-Saclay**. My work focuses on probabilistic modelling, genomic data analysis, and machine learning for biomedical research, with current research on **CRISPR–Cas9 off-target prediction**.
 
 ::: {.hero-actions}
-[Explore research](research.qmd){.btn .btn-primary} [Projects](projects.qmd){.btn .btn-soft} [CV](cv.qmd){.btn .btn-soft}
+[Explore research](research.qmd){.btn .btn-primary} [Projects](projects.qmd){.btn .btn-soft} [View CV](cv.qmd){.btn .btn-soft} [Download CV](assets/Gaia_Bianciotto_CV.pdf){.btn .btn-soft download="Gaia_Bianciotto_CV.pdf"}
 :::
 
 ::: {.social-row}

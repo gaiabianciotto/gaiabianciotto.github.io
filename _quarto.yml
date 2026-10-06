@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - interactions.js
+    - assets/Gaia_Bianciotto_CV.pdf
 
 website:
   title: "Gaia Bianciotto"
